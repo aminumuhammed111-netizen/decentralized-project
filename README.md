@@ -1,2 +1,2 @@
 # decentralized-project
-Decentralized blockchain project and smart contract example
+Decentralized blockchain project and smart contrac
